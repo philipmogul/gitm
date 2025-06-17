@@ -1,0 +1,4 @@
+Creating a git remote to push files to GitHub from my pc: 
+
+git remote add origin https://github.com/philipmogul/gitm.git
+git push -u origin main
