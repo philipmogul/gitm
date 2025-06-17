@@ -1,0 +1,6 @@
+This branch was created to build parts of applications related to databases, such as mongodb, express, compass, postman, atlas, azure, aws. 
+This is how projects might be distributed in different branches in the real world! 
+
+I used : 
+git branch branchname
+git checkout branchname
