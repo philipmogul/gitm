@@ -1,0 +1,2 @@
+In future, when working with branches, immediately merge it before doing anymore further commits. 
+This is because if i make any more commits, I will have to go through long steps to make the branches be part of the main 
