@@ -1,0 +1,14 @@
+used for merging branches within the applications: 
+
+in the real world, there can be many branches, for managing different things, such as: 
+users 
+homepage
+databasebranch 
+
+
+use : 
+git merge branchname
+
+// To delete the branch: 
+
+git branch -d branchname
