@@ -3,3 +3,4 @@ Ignoring files in git:
 // for example for server log files 
 
 You can put *.log (file extension types you want to ignore)
+.DS_Store // for mac users 
