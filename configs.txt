@@ -1,0 +1,21 @@
+To see the current configuration settings, type: 
+
+git config --global --list
+
+To set username, useremail etc, type: 
+
+git config --global user.name = "username"
+git config --global user.email = "useremail"
+
+To set distinct color for commands in terminal, type: 
+
+git config --global color.ui = true
+
+
+Line endings, for windows, type: git config --global core.autocrlf true 
+Line endings, for mac or Linux, type: git config --global core.autocrlf input 
+
+Aliases: setting shortcuts for git commands: 
+git config --global alias.s "status -s"
+git config --global alias.lg "log oneline --all --graph --decorate"
+
