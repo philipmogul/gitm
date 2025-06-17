@@ -1,0 +1,3 @@
+Renaming a file in git: 
+
+git mv renamedoriginal.txt renamed_newname.txt
