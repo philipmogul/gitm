@@ -2,3 +2,9 @@ Creating a git remote to push files to GitHub from my pc:
 
 git remote add origin https://github.com/philipmogul/gitm.git
 git push -u origin main
+
+
+…or push an existing repository from the command line (I found this action works for my command line)
+git remote add origin https://github.com/philipmogul/reactwinz.git
+git branch -M main
+git push -u origin main
