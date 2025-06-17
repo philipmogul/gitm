@@ -12,3 +12,8 @@ git merge branchname
 // To delete the branch: 
 
 git branch -d branchname
+
+
+// To create a branch and instantly check it out 
+
+git checkout -b branchname 
