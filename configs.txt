@@ -10,6 +10,7 @@ git config --global user.email = "useremail"
 To set distinct color for commands in terminal, type: 
 
 git config --global color.ui = true
+git config --global color.ui auto
 
 
 Line endings, for windows, type: git config --global core.autocrlf true 
@@ -17,5 +18,9 @@ Line endings, for mac or Linux, type: git config --global core.autocrlf input
 
 Aliases: setting shortcuts for git commands: 
 git config --global alias.s "status -s"
-git config --global alias.lg "log oneline --all --graph --decorate"
+git config --global alias.lg "log --oneline --all --graph --decorate"
+
+Unset an Alias: 
+git config --global --unset alias.s
+git config --global --unset alias.lg
 

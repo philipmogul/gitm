@@ -17,3 +17,16 @@ git branch -d branchname
 // To create a branch and instantly check it out 
 
 git checkout -b branchname 
+
+
+
+// merging recursively situation
+// when git has many branches and many commits had been done so much without merging the branches 
+// to merge recursively for inclusion of all branches : 
+
+git merge branchname 
+
+// it will open a terminal, write: 
+:wq 
+
+// it will exist with the branch merged 

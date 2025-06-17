@@ -1,2 +1,13 @@
 In future, when working with branches, immediately merge it before doing anymore further commits. 
 This is because if i make any more commits, I will have to go through long steps to make the branches be part of the main 
+
+// merging recursively situation
+// when git has many branches and many commits had been done so much without merging the branches 
+// to merge recursively for inclusion of all branches : 
+
+git merge branchname 
+
+// it will open a terminal, write: 
+:wq 
+
+// it will exist with the branch merged 
