@@ -1,0 +1,11 @@
+to create a new branch:
+
+git branch branchname
+
+// To navigate to that branch: 
+
+git checkout branchname 
+
+// Then create normal file, add and commit them to the branch 
+// That commit will only exist on that branch 
+

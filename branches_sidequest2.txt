@@ -1,0 +1,11 @@
+Different branch: 
+
+In the real world this could be a different part of the application such as contact page more details such as including email newsletter etc 
+
+
+N/B: 
+In the real world we can have different branches for: 
+User Profile
+Payment Gateway
+Staff Members 
+Social Media Marketing etc 
