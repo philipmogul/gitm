@@ -1,0 +1,3 @@
+This being the last commit, if i want the commit behind it to come infront of this one inorder to organizing our commits, i will type: 
+
+git rebase master
