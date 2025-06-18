@@ -29,4 +29,23 @@ git merge branchname
 // it will open a terminal, write: 
 :wq 
 
-// it will exist with the branch merged 
+// it will exist with the branch merged
+
+// to merge with no fast forwarding: will give additional meaning that those changes were made on a branch:  
+// personal note: This is a better way of merging since even if the branch is deleted, the commits will remain 
+git merge --no-ff branchname
+
+
+
+
+// merge conflicts 
+// sometimes in different branches the same file might have been modified and committed and one of the branches merged to main 
+// when the later branch is about to merged with git, there usually will be a merge conflict because it contains a different copy 
+of the same file name 
+// so use a text editor and open the files in contention and update manually, then add and commit 
+
+
+
+
+
+
