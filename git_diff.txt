@@ -1,0 +1,8 @@
+Git diff allows you to see differences made on a page after its been added to the staging area: 
+// get differences in the staging area 
+
+type: git diff --staged 
+
+// to get differences since your last commit, type: 
+
+git diff HEAD 
