@@ -1,0 +1,5 @@
+The git pull re both local remote repositories match.
+It is usually written without anything else on its end. 
+
+
+C:// git pull
