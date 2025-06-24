@@ -1,0 +1,7 @@
+Some cool vscodes extensions that make it very useful in coding using git or general coding
+
+1. GitLens 
+2. GitHub copilot 
+3. GitHub actions 
+4. Live server
+5. Prettier  
